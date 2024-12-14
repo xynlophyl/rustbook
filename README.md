@@ -1,4 +1,4 @@
-# rustbook
+# rustbook: learning rust
 following the rust book and other rust tutorials
 
 resources:
