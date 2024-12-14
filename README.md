@@ -1,4 +1,4 @@
-"# rustbook"
+# rustbook
 following the rust book and other rust tutorials
 
 resources:
